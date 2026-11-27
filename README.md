@@ -1,15 +1,227 @@
-# 💫 About Me:
-## About Me<br><br>Hi, I'm **Zain Abbas**, a passionate **Full-Stack Developer** who loves turning ideas into modern, scalable, and user-friendly web applications. I primarily work with the **MERN Stack** and enjoy building real-world projects that solve practical problems.<br><br>I'm constantly learning and exploring new technologies, with a growing interest in **AI/ML, software engineering, and intelligent web applications**. I believe in learning by building, writing clean and maintainable code, and continuously improving my skills.<br><br>🚀 **Build. Learn. Improve. Repeat.**<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:142D4E,100:2563EB&text=ZAIN%20ABBAS&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20DEVELOPMENT&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Zain-Abbas-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Zain-Abbas-developer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zain-Abbas-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/Zain-Abbas-developer">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications;Exploring+Backend+Architecture;Learning+Distributed+Systems;Turning+Ideas+Into+Software" />
+</a>
+
+<p>
+<a href="https://github.com/Zain-Abbas-developer">
+<img src="https://img.shields.io/badge/GitHub-Zain--Abbas--developer-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Zain-Abbas-developer?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Zain-Abbas-developer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01 / ABOUT ME`
+
+I'm **Zain Abbas**, a Software Engineering enthusiast and full-stack developer focused on building practical web applications and exploring scalable backend systems.
+
+I enjoy working across the software development lifecycle — from designing interfaces and building REST APIs to database architecture, authentication, and asynchronous processing.
+
+My goal is to grow into a Software Engineer capable of designing, developing, and maintaining reliable software systems.
+
+```javascript
+const zain = {
+    role: "Full-Stack Developer",
+    education: "BBIT",
+    primaryStack: ["JavaScript", "React", "Node.js", "MongoDB"],
+    languages: ["JavaScript", "TypeScript", "Python", "C++"],
+    interests: [
+        "Backend Engineering",
+        "System Design",
+        "Distributed Systems",
+        "Software Architecture"
+    ],
+    currentlyExploring: "Scalable Software Systems"
+};
+```
+
+---
+
+## `02 / TECHNICAL EXPERTISE`
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs" />
+</p>
+
+### Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui,vite" />
+</p>
+
+### Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,nginx" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+## `03 / FEATURED ENGINEERING PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### MERN CRM
+
+**Full-Stack Business Management Platform**
+
+A multi-role CRM platform for managing customers, leads, employees, tasks and business operations.
+
+- Role-based access control
+- JWT authentication
+- Real-time communication
+- Business analytics
+- REST API architecture
+
+**Stack:** React · Node.js · Express · MongoDB · Socket.IO
+
+<a href="https://github.com/Zain-Abbas-developer/MERN-CRM">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### FluxGrid
+
+**Distributed Job Processing Platform**
+
+An engineering project exploring asynchronous processing, independent workers and distributed backend architecture.
+
+- Redis + BullMQ
+- Worker-based processing
+- Python compute service
+- Docker-based environment
+- Job lifecycle management
+
+**Stack:** TypeScript · Node.js · Redis · MongoDB · FastAPI · Docker
+
+<a href="https://github.com/Zain-Abbas-developer/FluxGrid">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Vigilo Proctoring System
+
+**AI-Assisted Examination Monitoring**
+
+A multi-service examination monitoring application combining web technologies with computer vision.
+
+- AI-based face detection
+- Multi-role architecture
+- Examination monitoring
+- Real-time events
+- Separate AI service
+
+**Stack:** React · Node.js · Django · Python · OpenCV · MediaPipe
+
+<a href="https://github.com/Zain-Abbas-developer/Vigilo-Proctoring-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### FoodDelivery
+
+**Food Ordering & Delivery Platform**
+
+A food ordering application designed around restaurant, customer and delivery workflows.
+
+- User-facing ordering experience
+- Restaurant workflows
+- Order management
+- Real-time functionality
+
+**Stack:** React · JavaScript · Web Technologies
+
+<a href="https://github.com/Zain-Abbas-developer/FoodDelivery">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 / ENGINEERING FOCUS`
+
+| Domain | Current Focus |
+|:---|:---|
+| Backend Engineering | API design, authentication, service architecture |
+| Database Engineering | Data modelling, indexing, query optimization |
+| System Design | Scalability, caching, distributed architecture |
+| Computer Science | DSA, OOP, operating systems |
+| DevOps | Docker, CI/CD, deployment |
+| Software Quality | Testing, maintainability, reliability |
+
+---
+
+## `05 / GITHUB ANALYTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zain-Abbas-developer&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Abbas-developer&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Abbas-developer&theme=github-dark-blue&hide_border=true" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zain-Abbas-developer&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## `06 / CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/Zain-Abbas-developer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Add your verified LinkedIn and portfolio URLs here -->
+
+<br/><br/>
+
+**Interested in Software Engineering, Backend Development & Open Source.**
+
+*Engineering is a continuous process of learning, building and improving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer" width="100%" />
+
+</div>
