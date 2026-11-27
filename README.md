@@ -56,13 +56,19 @@ const zain = {
 ### Frontend Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,materialui,vite" />
 </p>
 
 ### Backend Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,dotnet" />
+</p>
+
+### Packages
+
+<p>
+<img src="https://skillicons.dev/icons?i=npm,pnpm" />
 </p>
 
 ### Databases & Infrastructure
