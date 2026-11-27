@@ -56,7 +56,7 @@ const zain = {
 ### Frontend Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui,vite" />
 </p>
 
 ### Backend Engineering
@@ -68,7 +68,7 @@ const zain = {
 ### Databases & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,nginx" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,nginx" />
 </p>
 
 ### Development Tools
